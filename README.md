@@ -4,18 +4,20 @@
 
 A hands-on home lab where I experiment, break, and explore systems to learn cybersecurity. Full documentation included.
 
-# ❓ Why having a personal Homelab is fundamental in Cybersecurity
+# ❓ Why a personal Homelab is essential in Cybersecurity
 
 Having a homelab is extremely important in cybersecurity. We can practice, break, build, and test everything we want in an isolated environment, without affecting our real machine. This allows us to gain more experience in the field by putting theory into practice. This allows us to understand better some important cybersecurity concepts: **operating systems**, **networking**, **malware analysis**, **network isolation**, Security Information and Event Management (**SIEM**) and more.
 
 # 💻 Virtualization
 - Hypervisor: VirtualBox
-- Number of VMs: X
+- Number of VMs: ..
 
 # 📦 Virtual Machines
-- Attacker: used to perform attacks on vulnerable machines. Runs Parrot OS.
-- Target: ..
+- Attacker Machine:
+  - Operating System: Parrot OS
+  - Purpose: Used to perform penetration testing and attacks
+  - Base memory: 8653 MB
 
 # 📝 Guide
 
-In this guide, I will walk you through the steps I took to build my own home lab, from zero.
+In this guide, I will walk you through the steps I took to build my own home lab, from scratch.
