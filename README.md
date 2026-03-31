@@ -24,7 +24,7 @@ In this guide, I will walk you through the steps I took to build my own home lab
 
 ### VirtualBox Installation
 
-To start, let's install a software that lets us create virtual machines, I chose VirtualBox, because it's simple to use and beginner-friendly.
+To start, let's install a software that lets us create virtual machines, I chose VirtualBox, because it's simple to use and user-friendly.
 
 I installed it on Arch Linux, running the following command: 
 
