@@ -22,7 +22,9 @@ Having a homelab is extremely important in cybersecurity. We can practice, break
 
 In this guide, I will walk you through the steps I took to build my own home lab, from scratch.
 
-### VirtualBox Installation
+### 1. VirtualBox Installation
 
 To start, let's install a software that lets us create virtual machines, I chose VirtualBox, because it's simple to use and user-friendly.
 I installed it on Windows 11, following the step-by step guide on the official VirtualBox website: https://www.virtualbox.org/
+
+### 2. Picking a Distro for Penetration Testing
