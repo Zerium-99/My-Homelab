@@ -59,3 +59,7 @@ Then, I hosted my DHCP server by using the following command:
 
 <img width="1475" height="805" alt="image" src="https://github.com/user-attachments/assets/9ae2f27d-8c09-4c2d-bec7-fa69e2dfc6f6" />
 
+After executing the command, I created a DHCP server associated with the internal network (`intnet`). The server was assigned the IP address 10.38.1.1 and configured to automatically distribute IP addresses to connected machines within the range 10.38.1.110–10.38.1.120.
+
+The network was defined with a subnet mask of 255.255.255.0, and the `--enable` flag was used to activate the DHCP service.
+
