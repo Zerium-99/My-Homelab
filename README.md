@@ -8,17 +8,17 @@ A hands-on home lab where I experiment, break, and explore systems to learn cybe
 
 Having a homelab is extremely important in cybersecurity. We can practice, break, build, and test everything we want in an isolated environment, without affecting our real machine. This allows us to gain more experience in the field by putting theory into practice. This allows us to understand better some important cybersecurity concepts: **operating systems**, **networking**, **malware analysis**, **network isolation**, Security Information and Event Management (**SIEM**) and more.
 
-# 💻 Virtualization
-- Hypervisor: VirtualBox
-- Number of VMs: ..
+# 💻 Used Resources
+- Hypervisor: [VirtualBox](https://www.virtualbox.org/)
+- Vulnerable machines: [VulnHub](https://vulnhub.com)
 
 # 📦 Virtual Machines
 - Attacker Machine:
   - Operating System: [Kali Linux](https://kali.org)
-  - Purpose: Used to perform penetration testing and attacks
+  - Purpose:v Used to perform penetration testing and attacks
   - RAM: 8 GB (8192 MB)
   - CPU Processors: 5
-  - Attached to: Internal Network
+  - Attached to: Internal Network(for isolation)
 
 # 📝 Guide
 
