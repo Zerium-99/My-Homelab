@@ -31,11 +31,11 @@ I installed it on Windows 11, following the step-by step guide on the official V
 
 ### 2. Choosing the Distro
 
-I chose Kali Linux as my distro for my HomeLab. There are many other ones, such as [Parrot OS](https://parrotsec.org), [Blackarch](https://blackarch.org), [ArchStrike](https://archstrike.org) and even more. Kali Linux is Debian-Based, which makes it stable, well-maintaned and reliable.
+I chose Parrot OS as my distro for my HomeLab. There are many other ones, such as [Kali Linux](https://kali.org), [Blackarch](https://blackarch.org), [ArchStrike](https://archstrike.org) and even more. Parrot OS is Debian-Based, which makes it stable, well-maintaned and reliable.
 
-### 3. Importing the Kali Linux Virtual Machine
+### 3. Importing the Parrot OS OVA File
 
-The Kali Linux virtual machine was deployed by importing an existing `.vbox` configuration file into VirtualBox. This method ensures a consistent and reproducible environment without requiring a full manual installation.
+The Parrot OS virtual machine was deployed by importing an existing `.ova` file into VirtualBox. This method ensures a consistent and reproducible environment without requiring a full manual installation.
 
 After importing, the VM was configured with two network adapters:
 - NAT adapter for internet access
