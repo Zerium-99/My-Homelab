@@ -11,7 +11,7 @@ Having a homelab is extremely important in cybersecurity. We can practice, break
 # 💻 Used Resources
 - Hypervisor: [VirtualBox](https://www.virtualbox.org/)
 - Vulnerable machines: [VulnHub](https://vulnhub.com)
-- Networkchuck: https://www.youtube.com/watch?v=mvsiuLzpx2E&t=254s
+- NetworkChuck: https://www.youtube.com/watch?v=mvsiuLzpx2E&t=254s
 
 # 📦 Virtual Machines
 - Attacker Machine:
