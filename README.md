@@ -19,6 +19,7 @@ Having a homelab is extremely important in cybersecurity. We can practice, break
   - RAM: 8 GB (8192 MB)
   - CPU Processors: 5
   - Attached to: Internal Network(for isolation)
+    
   <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8ac16ee5-2f6b-4066-b3cf-a7940a2839ae" />
 
 
