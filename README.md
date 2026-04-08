@@ -74,3 +74,4 @@ The network was defined with a subnet mask of 255.255.255.0, and the `--enable` 
 
 To start exploiting systems, we need vulnerable virtual machines to attack. I installed multiple vulnerable VMs from [VulnHub](https://vulnhub.com), a great website that offers a wide variety of virtual environments ready to hack. This is very important for our HomeLab, because it gives us the opportunity to train, test, and break systems.
 
+# Future Improvements
