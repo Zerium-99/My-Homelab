@@ -8,6 +8,10 @@ A hands-on home lab where I experiment, break, and explore systems to learn cybe
 
 Having a homelab is extremely important in cybersecurity. We can practice, break, build, and test everything we want in an isolated environment, without affecting our real machine. This allows us to gain more experience in the field by putting theory into practice. This allows us to understand better some important cybersecurity concepts: **operating systems**, **networking**, **malware analysis**, **network isolation**, Security Information and Event Management (**SIEM**) and more.
 
+# ✏️ Network Diagram
+
+<img width="621" height="409" alt="network diagram" src="https://github.com/user-attachments/assets/1e422f34-f1a7-4b1f-936d-3d320a8ea826" />
+
 # 💻 Used Resources
 Here are the resources I used to make my own cybersecurity homelab:
 
@@ -15,11 +19,6 @@ Here are the resources I used to make my own cybersecurity homelab:
 - Vulnerable machines: [VulnHub](https://vulnhub.com)
 - NetworkChuck: https://www.youtube.com/watch?v=mvsiuLzpx2E&t=254s
 - Operating System: [Parrot OS](https://parrotsec.org)
-
-# ✏️ Network Diagram
-
-<img width="621" height="409" alt="network diagram" src="https://github.com/user-attachments/assets/1e422f34-f1a7-4b1f-936d-3d320a8ea826" />
-
 
 # 📦 Virtual Machines
 - Attacker Machine:
